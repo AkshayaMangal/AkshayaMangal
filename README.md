@@ -1,4 +1,4 @@
-👋 Hello there! I'm Akshaya Mangal (@AkshayaMangal), a seasoned data engineer with over 6 years of hands-on experience in crafting robust data pipelines for streamlined data management and insightful analysis.
+👋 Hello there! I'm Akshaya Mangal, a seasoned data engineer with over 6 years of hands-on experience in crafting robust data pipelines for streamlined data management and insightful analysis.
 
 🚀 I thrive on the challenges of leveraging cutting-edge Big Data technologies such as Apache Spark, Hadoop, and Hive, along with my expertise in programming languages like Python, SQL, and Spark SQL. My primary focus revolves around extracting, transforming, and loading data (ETL) from diverse sources, ensuring data accuracy, reliability, and efficiency.
 
